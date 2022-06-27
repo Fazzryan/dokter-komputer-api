@@ -7,23 +7,6 @@
       "email": "dinda@gmail.com",
       "password": "dinda",
       "id": 1
-    },
-    {
-      "namaD": "Maya",
-      "namaB": "sari",
-      "telepon": "0877123372845",
-      "email": "maya@gmail.com",
-      "password": "maya",
-      "id": 2
-    },
-    {
-      "namaD": "Sukma",
-      "namaB": "Eka",
-      "telepon": "085223424195",
-      "email": "sukma@gmail.com",
-      "password": "sukma",
-      "orderId": 0,
-      "id": 3
     }
   ],
   "produk": [
@@ -221,32 +204,6 @@
       },
       "userId": 1,
       "id": 3
-    },
-    {
-      "qty": "1",
-      "products": {
-        "id": 10,
-        "nama": "Headset Razer Opusxquartz",
-        "harga": 1519000,
-        "deskripsi": "Panjang kabel 2,2m, Noise Canceling",
-        "kategori": "Aksesoris",
-        "img": "headset-razer-opusxquartz.png"
-      },
-      "userId": 3,
-      "id": 5
-    },
-    {
-      "qty": "1",
-      "products": {
-        "id": 9,
-        "nama": "Logitech Gamming G335 White",
-        "harga": 809000,
-        "deskripsi": "Noise Canceling",
-        "kategori": "Aksesoris",
-        "img": "headset-logitech-gaming-g335-white.png"
-      },
-      "userId": 2,
-      "id": 6
     }
   ],
   "data-form": [],
@@ -288,79 +245,6 @@
       "status": "Processing",
       "userId": 2,
       "id": 1
-    },
-    {
-      "keranjang": [
-        {
-          "qty": "1",
-          "products": {
-            "id": 8,
-            "nama": "Headset Predator Galea",
-            "harga": 850000,
-            "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
-            "kategori": "Aksesoris",
-            "img": "headset-predator-galea-350.png"
-          },
-          "userId": 2,
-          "id": 2
-        }
-      ],
-      "dataForm": [
-        {
-          "email": "sukma@gmail.com",
-          "negara": "Indonesia",
-          "nama": "Sukma Eka",
-          "alamat": "Cihideung",
-          "kecamatan": "Cihideung",
-          "kota": "Tasikmalaya",
-          "provinsi": "Aceh",
-          "kodePos": "46214",
-          "notelp": "085223424195",
-          "id": 1
-        }
-      ],
-      "tanggal": "2022-6-26 22:19:43",
-      "totHarga": 858000,
-      "metodePembayaran": "Dana",
-      "status": "Processing",
-      "userId": 3,
-      "id": 2
-    },
-    {
-      "keranjang": [
-        {
-          "qty": "1",
-          "products": {
-            "id": 9,
-            "nama": "Logitech Gamming G335 White",
-            "harga": 809000,
-            "deskripsi": "Noise Canceling",
-            "kategori": "Aksesoris",
-            "img": "headset-logitech-gaming-g335-white.png"
-          },
-          "userId": 2,
-          "id": 6
-        }
-      ],
-      "dataForm": [
-        {
-          "email": "maya@gmail.com",
-          "negara": "Indonesia",
-          "nama": "Mayasari",
-          "alamat": "Jl. Sdananya",
-          "kecamatan": "Ciamis",
-          "kota": "Ciamis",
-          "provinsi": "Aceh",
-          "kodePos": "46214",
-          "notelp": "087879919287",
-          "id": 1
-        }
-      ],
-      "tanggal": "2022-6-27 16:59:51",
-      "totHarga": 817000,
-      "status": "Processing",
-      "userId": 2,
-      "id": 3
     }
   ],
   "komentar": [

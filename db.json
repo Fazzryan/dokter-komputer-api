@@ -133,49 +133,9 @@
       "deskripsi": "<h2>Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling</h2>",
       "kategori": "Aksesoris",
       "img": "headset-sonicgear-airphone-5.png"
-    },
+    }
     {
       "id": 16,
-      "nama": "Headset Sonicgear Airphone 5 Black/Gun Metal",
-      "harga": 140000,
-      "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
-      "kategori": "Aksesoris",
-      "img": "headset-sonicgear-airphone-5-black.png"
-    },
-    {
-      "id": 17,
-      "nama": "Speaker Simbadda Cst-2100N",
-      "harga": 385000,
-      "deskripsi": "",
-      "kategori": "Aksesoris",
-      "img": "speaker-simbadda-cst-2100n.png"
-    },
-    {
-      "id": 18,
-      "nama": "Speaker Simbadda Cst-7000N+",
-      "harga": 700000,
-      "deskripsi": "",
-      "kategori": "Aksesoris",
-      "img": "speaker-simbadda-cst-7100n+.png"
-    },
-    {
-      "id": 19,
-      "nama": "Speaker Simbadda Cst-3000N+",
-      "harga": 330000,
-      "deskripsi": "Noise Canceling",
-      "kategori": "Aksesoris",
-      "img": "speaker-simbadda-cst-3000n+.png"
-    },
-    {
-      "id": 20,
-      "nama": "Flashdisk Netac 16 GB",
-      "harga": 45000,
-      "deskripsi": "USB 3, 32 GB, OTG",
-      "kategori": "Aksesoris",
-      "img": "netac16gb.png"
-    },
-    {
-      "id": 21,
       "nama": "Flashdisk Sandisk 32 GB OTG",
       "harga": 100000,
       "deskripsi": "32 GB",
@@ -183,7 +143,7 @@
       "img": "sandisk32gbotg.png"
     },
     {
-      "id": 22,
+      "id": 17,
       "nama": "Flashdisk Kingstone 32 GB",
       "harga": 63000,
       "deskripsi": "Noise Canceling",
@@ -209,43 +169,6 @@
   "data-form": [],
   "data-ongkir": [],
   "orderan": [
-    {
-      "keranjang": [
-        {
-          "qty": "1",
-          "products": {
-            "id": 8,
-            "nama": "Headset Predator Galea",
-            "harga": 850000,
-            "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
-            "kategori": "Aksesoris",
-            "img": "headset-predator-galea-350.png"
-          },
-          "userId": 2,
-          "id": 2
-        }
-      ],
-      "dataForm": [
-        {
-          "email": "maya@gmail.com",
-          "negara": "Indonesia",
-          "nama": "Mayasari",
-          "alamat": "Jl. Sadananya",
-          "kecamatan": "Ciamis",
-          "kota": "Ciamis",
-          "provinsi": "Aceh",
-          "kodePos": "46214",
-          "notelp": "087878878625",
-          "id": 1
-        }
-      ],
-      "tanggal": "2022-6-26 22:19:43",
-      "totHarga": 858000,
-      "metodePembayaran": "Ovo",
-      "status": "Processing",
-      "userId": 2,
-      "id": 1
-    }
   ],
   "komentar": [
     {
@@ -256,15 +179,6 @@
       "pesan": "Komputernya nyala mas, packinganya juga rapih mantap deh",
       "tanggal": "2022-6-25 16:49:36",
       "id": 1
-    },
-    {
-      "idProduct": 5,
-      "nama": "Mayasari",
-      "email": "Maya@gmail.com",
-      "rating": "Puas",
-      "pesan": "Pengiriman cepat, packing juga rapih. barang belum di coba. Mudah-mudahan aman",
-      "tanggal": "2022-6-25 17:4:4",
-      "id": 2
     }
   ]
 }

@@ -12,7 +12,6 @@
     {
       "id": 1,
       "nama": "Pc Aio Acer C22-1650 i3-1115G4",
-      "slug": "pc-aio-acer-c22-1650-i3-1115g4",
       "harga": 7400000,
       "deskripsi": "Processor Intel Core I3-115G4, Memory 4GB DDR4, Tipe Grafis Intel UHD Graphics, Penyimpanan 1TB HDD",
       "kategori": "Komputer",
@@ -21,7 +20,6 @@
     {
       "id": 2,
       "nama": "Pc Acer C22-1650 Aio i3 SSD",
-      "slug": "pc-acer-c22-1650-aio-i3-ssd",
       "harga": 8200000,
       "deskripsi": "Processor Intel Core I3-115G4, Memory 4GB DDR4, Tipe Grafis Intel UHD Graphics, Penyimpanan 1TB HDD",
       "kategori": "Komputer",
@@ -30,7 +28,6 @@
     {
       "id": 3,
       "nama": "Pc Lenovo 3 24ITL6 Aio I5 Vga",
-      "slug": "pc-lenovo-3-24itl6-aio-i5-vga",
       "harga": 13500000,
       "deskripsi": "Processor Intel Core I7-10700, Memory 8GB DDR4, Tipe Grafis NVIDIA GT1030 2G, Penyimpanan 512GB SSD",
       "kategori": "Komputer",
@@ -39,7 +36,6 @@
     {
       "id": 4,
       "nama": "Pc Hp 205 Pro G4 Aio Ryzen 3",
-      "slug": "pc-hp-205-pro-g4-aio-ryzen3",
       "harga": 6900000,
       "deskripsi": "Processor AMD Ryzen 3 3250u, Memory 4GB DDR4 2400MHz, Tipe Grafis AMD Radeon Graphics, Penyimpanan 1TB HDD",
       "kategori": "Komputer",

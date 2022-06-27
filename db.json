@@ -1,0 +1,386 @@
+{
+  "user": [
+    {
+      "namaD": "Dinda",
+      "namaB": "Fazryan",
+      "telepon": "087879919287",
+      "email": "dinda@gmail.com",
+      "password": "dinda",
+      "id": 1
+    },
+    {
+      "namaD": "Maya",
+      "namaB": "sari",
+      "telepon": "0877123372845",
+      "email": "maya@gmail.com",
+      "password": "maya",
+      "id": 2
+    },
+    {
+      "namaD": "Sukma",
+      "namaB": "Eka",
+      "telepon": "085223424195",
+      "email": "sukma@gmail.com",
+      "password": "sukma",
+      "orderId": 0,
+      "id": 3
+    }
+  ],
+  "produk": [
+    {
+      "id": 1,
+      "nama": "Pc Aio Acer C22-1650 i3-1115G4",
+      "slug": "pc-aio-acer-c22-1650-i3-1115g4",
+      "harga": 7400000,
+      "deskripsi": "Processor Intel Core I3-115G4, Memory 4GB DDR4, Tipe Grafis Intel UHD Graphics, Penyimpanan 1TB HDD",
+      "kategori": "Komputer",
+      "img": "pc-aio-acer-c22-1650-13-hdd-1tb.png"
+    },
+    {
+      "id": 2,
+      "nama": "Pc Acer C22-1650 Aio i3 SSD",
+      "slug": "pc-acer-c22-1650-aio-i3-ssd",
+      "harga": 8200000,
+      "deskripsi": "Processor Intel Core I3-115G4, Memory 4GB DDR4, Tipe Grafis Intel UHD Graphics, Penyimpanan 1TB HDD",
+      "kategori": "Komputer",
+      "img": "pc-acer-c22-1650-i3-ssd.png"
+    },
+    {
+      "id": 3,
+      "nama": "Pc Lenovo 3 24ITL6 Aio I5 Vga",
+      "slug": "pc-lenovo-3-24itl6-aio-i5-vga",
+      "harga": 13500000,
+      "deskripsi": "Processor Intel Core I7-10700, Memory 8GB DDR4, Tipe Grafis NVIDIA GT1030 2G, Penyimpanan 512GB SSD",
+      "kategori": "Komputer",
+      "img": "pc-lenovo-3-24itl6-aio-i5-vga.png"
+    },
+    {
+      "id": 4,
+      "nama": "Pc Hp 205 Pro G4 Aio Ryzen 3",
+      "slug": "pc-hp-205-pro-g4-aio-ryzen3",
+      "harga": 6900000,
+      "deskripsi": "Processor AMD Ryzen 3 3250u, Memory 4GB DDR4 2400MHz, Tipe Grafis AMD Radeon Graphics, Penyimpanan 1TB HDD",
+      "kategori": "Komputer",
+      "img": "pc-hp-205-pro-g4-aio-ryzen3.png"
+    },
+    {
+      "id": 5,
+      "nama": "Intel Core i5 9400F",
+      "harga": 2100000,
+      "deskripsi": "6 Core, Base Frequency 2,9GHz, TDP 65Watt, CPU Cache 9MB, Socket LGA 1151",
+      "kategori": "KomponenPc",
+      "img": "corei5-9400f.png"
+    },
+    {
+      "id": 6,
+      "nama": "AMD Ryzen 5 3400g",
+      "harga": 2750000,
+      "deskripsi": "4 Core 8 Threads, Base Frequency 3,70 - 4.20 GHz, IGP Radeon Vega 11, TDP 65Watt, CPU Cache 3MB, Socket AM4",
+      "kategori": "KomponenPc",
+      "img": "ryzen5-3400g.png"
+    },
+    {
+      "id": 7,
+      "nama": "AMD-Athlon-3000G",
+      "harga": 850000,
+      "deskripsi": "2 Core 4 Threads, Base Frequency 3,0GHz,IGP Radeon Vega 3, TDP 35Watt, CPU Cache 4MB, Socket AM4",
+      "kategori": "KomponenPc",
+      "img": "athlon-3000g.png"
+    },
+    {
+      "id": 8,
+      "nama": "Headset Predator Galea",
+      "harga": 850000,
+      "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
+      "kategori": "Aksesoris",
+      "img": "headset-predator-galea-350.png"
+    },
+    {
+      "id": 9,
+      "nama": "Logitech Gamming G335 White",
+      "harga": 809000,
+      "deskripsi": "Noise Canceling",
+      "kategori": "Aksesoris",
+      "img": "headset-logitech-gaming-g335-white.png"
+    },
+    {
+      "id": 10,
+      "nama": "Headset Razer Opusxquartz",
+      "harga": 1519000,
+      "deskripsi": "Panjang kabel 2,2m, Noise Canceling",
+      "kategori": "Aksesoris",
+      "img": "headset-razer-opusxquartz.png"
+    },
+    {
+      "id": 11,
+      "nama": "Headset Rexus Gaming HX25 White",
+      "harga": 285000,
+      "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
+      "kategori": "Aksesoris",
+      "img": "headset-rexus-gaming-hx25-white.png"
+    },
+    {
+      "id": 12,
+      "nama": "Headset Razer Barracuda X Wirelles Mercury White",
+      "harga": 1500000,
+      "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
+      "kategori": "Aksesoris",
+      "img": "headset-razer-barracudaxwielles-mercury-white.png"
+    },
+    {
+      "id": 13,
+      "nama": "Headset Logitech H340 Black Edition",
+      "harga": 279000,
+      "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
+      "kategori": "Aksesoris",
+      "img": "headset-logitech-h340.png"
+    },
+    {
+      "id": 14,
+      "nama": "Headset Hp Gaming H220S",
+      "harga": 230000,
+      "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
+      "kategori": "Aksesoris",
+      "img": "headset-hp-gaming-h220s.png"
+    },
+    {
+      "id": 15,
+      "nama": "Headset Sonicgear Airphone 5 Black/Maroon",
+      "harga": 140000,
+      "deskripsi": "<h2>Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling</h2>",
+      "kategori": "Aksesoris",
+      "img": "headset-sonicgear-airphone-5.png"
+    },
+    {
+      "id": 16,
+      "nama": "Headset Sonicgear Airphone 5 Black/Gun Metal",
+      "harga": 140000,
+      "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
+      "kategori": "Aksesoris",
+      "img": "headset-sonicgear-airphone-5-black.png"
+    },
+    {
+      "id": 17,
+      "nama": "Speaker Simbadda Cst-2100N",
+      "harga": 385000,
+      "deskripsi": "",
+      "kategori": "Aksesoris",
+      "img": "speaker-simbadda-cst-2100n.png"
+    },
+    {
+      "id": 18,
+      "nama": "Speaker Simbadda Cst-7000N+",
+      "harga": 700000,
+      "deskripsi": "",
+      "kategori": "Aksesoris",
+      "img": "speaker-simbadda-cst-7100n+.png"
+    },
+    {
+      "id": 19,
+      "nama": "Speaker Simbadda Cst-3000N+",
+      "harga": 330000,
+      "deskripsi": "Noise Canceling",
+      "kategori": "Aksesoris",
+      "img": "speaker-simbadda-cst-3000n+.png"
+    },
+    {
+      "id": 20,
+      "nama": "Flashdisk Netac 16 GB",
+      "harga": 45000,
+      "deskripsi": "USB 3, 32 GB, OTG",
+      "kategori": "Aksesoris",
+      "img": "netac16gb.png"
+    },
+    {
+      "id": 21,
+      "nama": "Flashdisk Sandisk 32 GB OTG",
+      "harga": 100000,
+      "deskripsi": "32 GB",
+      "kategori": "Aksesoris",
+      "img": "sandisk32gbotg.png"
+    },
+    {
+      "id": 22,
+      "nama": "Flashdisk Kingstone 32 GB",
+      "harga": 63000,
+      "deskripsi": "Noise Canceling",
+      "kategori": "Aksesoris",
+      "img": "kingstone32gb.png"
+    }
+  ],
+  "keranjang": [
+    {
+      "qty": "1",
+      "products": {
+        "id": 20,
+        "nama": "Flashdisk Netac 16 GB",
+        "harga": 45000,
+        "deskripsi": "USB 3, 32 GB, OTG",
+        "kategori": "Aksesoris",
+        "img": "netac16gb.png"
+      },
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "qty": "1",
+      "products": {
+        "id": 10,
+        "nama": "Headset Razer Opusxquartz",
+        "harga": 1519000,
+        "deskripsi": "Panjang kabel 2,2m, Noise Canceling",
+        "kategori": "Aksesoris",
+        "img": "headset-razer-opusxquartz.png"
+      },
+      "userId": 3,
+      "id": 5
+    },
+    {
+      "qty": "1",
+      "products": {
+        "id": 9,
+        "nama": "Logitech Gamming G335 White",
+        "harga": 809000,
+        "deskripsi": "Noise Canceling",
+        "kategori": "Aksesoris",
+        "img": "headset-logitech-gaming-g335-white.png"
+      },
+      "userId": 2,
+      "id": 6
+    }
+  ],
+  "data-form": [],
+  "data-ongkir": [],
+  "orderan": [
+    {
+      "keranjang": [
+        {
+          "qty": "1",
+          "products": {
+            "id": 8,
+            "nama": "Headset Predator Galea",
+            "harga": 850000,
+            "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
+            "kategori": "Aksesoris",
+            "img": "headset-predator-galea-350.png"
+          },
+          "userId": 2,
+          "id": 2
+        }
+      ],
+      "dataForm": [
+        {
+          "email": "maya@gmail.com",
+          "negara": "Indonesia",
+          "nama": "Mayasari",
+          "alamat": "Jl. Sadananya",
+          "kecamatan": "Ciamis",
+          "kota": "Ciamis",
+          "provinsi": "Aceh",
+          "kodePos": "46214",
+          "notelp": "087878878625",
+          "id": 1
+        }
+      ],
+      "tanggal": "2022-6-26 22:19:43",
+      "totHarga": 858000,
+      "metodePembayaran": "Ovo",
+      "status": "Processing",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "keranjang": [
+        {
+          "qty": "1",
+          "products": {
+            "id": 8,
+            "nama": "Headset Predator Galea",
+            "harga": 850000,
+            "deskripsi": "Frekuensi 20 - 20000 Hz, Driver Diameter 50mm, Virtual 7.1 Surround Sound, Kepekaan / Sensitivitas 116dB+/-3dB, Panjang kabel 2,2m, Noise Canceling",
+            "kategori": "Aksesoris",
+            "img": "headset-predator-galea-350.png"
+          },
+          "userId": 2,
+          "id": 2
+        }
+      ],
+      "dataForm": [
+        {
+          "email": "sukma@gmail.com",
+          "negara": "Indonesia",
+          "nama": "Sukma Eka",
+          "alamat": "Cihideung",
+          "kecamatan": "Cihideung",
+          "kota": "Tasikmalaya",
+          "provinsi": "Aceh",
+          "kodePos": "46214",
+          "notelp": "085223424195",
+          "id": 1
+        }
+      ],
+      "tanggal": "2022-6-26 22:19:43",
+      "totHarga": 858000,
+      "metodePembayaran": "Dana",
+      "status": "Processing",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "keranjang": [
+        {
+          "qty": "1",
+          "products": {
+            "id": 9,
+            "nama": "Logitech Gamming G335 White",
+            "harga": 809000,
+            "deskripsi": "Noise Canceling",
+            "kategori": "Aksesoris",
+            "img": "headset-logitech-gaming-g335-white.png"
+          },
+          "userId": 2,
+          "id": 6
+        }
+      ],
+      "dataForm": [
+        {
+          "email": "maya@gmail.com",
+          "negara": "Indonesia",
+          "nama": "Mayasari",
+          "alamat": "Jl. Sdananya",
+          "kecamatan": "Ciamis",
+          "kota": "Ciamis",
+          "provinsi": "Aceh",
+          "kodePos": "46214",
+          "notelp": "087879919287",
+          "id": 1
+        }
+      ],
+      "tanggal": "2022-6-27 16:59:51",
+      "totHarga": 817000,
+      "status": "Processing",
+      "userId": 2,
+      "id": 3
+    }
+  ],
+  "komentar": [
+    {
+      "idProduct": 1,
+      "nama": "Dinda Fazryan",
+      "email": "dinda@gmail.com",
+      "rating": "Sangat Puas",
+      "pesan": "Komputernya nyala mas, packinganya juga rapih mantap deh",
+      "tanggal": "2022-6-25 16:49:36",
+      "id": 1
+    },
+    {
+      "idProduct": 5,
+      "nama": "Mayasari",
+      "email": "Maya@gmail.com",
+      "rating": "Puas",
+      "pesan": "Pengiriman cepat, packing juga rapih. barang belum di coba. Mudah-mudahan aman",
+      "tanggal": "2022-6-25 17:4:4",
+      "id": 2
+    }
+  ]
+}

@@ -57,6 +57,70 @@
       "deskripsi": "Processor Intel Core i5-11400F [6C/12T, 2.60-4.40Ghz] , MOTHERBOARD: MSI H510M Pro [mATX], COOLER: Intel Stock Cooler, RAM: Kingston FURY Beast 16GB (8X2) DDR4 3200Mhz, SSD: MSI Spatium M390 250GB NVMe M.2, PSU: MSI MPG A650BN 650W 80+ Bronze, CHASSIS: MSI Forge M100R",
       "img": "pc-gaming-1.jpg",
       "id": 5
+    },
+    {
+      "nama": "PC Rakitan GAMING GAME EDITING FOTO VIDEO",
+      "harga": 7750000,
+      "kategori": "Komputer",
+      "deskripsi": "PROCESSOR = AMD A8-7680 (ORIGINAL PRODUCT WITH BOX)+ QUITE COOLER FAN PROCESSOR, VGA = Nvidia GTX1650 4GB DDR5, M/B = ASROCK FM2A68 DENGAN SLOT USB 3.0, RAM = DDR3 8GB, HDD = SEAGATE / WD 1tb, SSD = 120GB, CASING GAMING + 1 FAN LED (Pilihan Sesuai Foto), Power Supply 400 watt",
+      "img": "pc-gaming-2.jpg",
+      "id": 6
+    },
+    {
+      "nama": "PC GAMING i7 1030 Full Set",
+      "harga": 5700000,
+      "kategori": "Komputer",
+      "deskripsi": "Spesifikasi PC : Intel Core i7-2600 (3,80 GHz), Motherboard LGA1155 Socket H61, 8GB RAM DDR3 PC12800, GT 1030 2GB Nvidia, SSD 120 GB (Anti lemot garansi 3 tahun), Harddisk 500GB Seagate Internal, Case Gaming mid tower, Powersupply 500watt, Coller Processor RGB fan, 2 x 12CM Fan Casing RGB",
+      "img": "pc-gaming-3.jpg",
+      "id": 7
+    },
+    {
+      "nama": "PC Intel i5 3470  (3.2 - 3.6 GHz, C6Mb)",
+      "harga": 5500000,
+      "kategori": "Komputer",
+      "deskripsi": "Spesifikasi PC : Processor Intel Core i5-3470 (3.2 - 3.6 GHz, C6Mb), Graphic Card Nvidia Geforce GT1030 2GB DDR5, RAM 16GB VGen DDR3 PC12800 (Dual Channel), Harddisk System : SSD 480GB High Speed 6Gbps, Harddisk Storage : SATA 1TB Seagate Internal HD 3.5, Mainboard Intel LGA1155 Biostar H61M (Gigabit LAN), PSU 450W - Voltron Bronze / Magnum Pro 225x, Case Armageddon Nimitz TR1100 + Triple LED Fan (Front)",
+      "img": "pc-gaming-4.jpg",
+      "id": 8
+    },
+    {
+      "nama": "Pc Gaming|Ryzen 7 5700G|16GB DDR4|Vega 8|",
+      "harga": 8200000,
+      "kategori": "Komputer",
+      "deskripsi": "Spesifikasi Lengkap: MotherBoard MSI B450M A Pro, Processor AMD Ryzen 7 5700G Clock/Turbo 3.6GHz/3.9GHz Garansi 3 tahun, Cooler Jonsbo CR-1200E, DDR4 Samsung / Kingston 16GB (8x2) PC 3200mhz Garansi Lifetime, SSD 240 GB Midasforce Garansi 3 tahun, VGA Onboard Vega 8, Sound Card + Lan Card (On Board), Casing Paradox Gaming Dragon Slayer / Durandal, Fan tmbhn 3 pcs, PSU Aerocool 550W 80+ Bronze RGB",
+      "img": "pc-gaming-5.jpg",
+      "id": 9
+    },
+    {
+      "nama": "ACER PREDATOR HELIOS PH315-54 GeForce RTX™ 3070",
+      "harga": 26500000,
+      "kategori": "Laptop",
+      "deskripsi": "Spesifikasi : GPU : NVIDIA GeForce RTX 3070 Processor : Intel Core i7-11800H processor (24MB cache, up to 4.60Ghz) OS : Windows 10 Home Display : 15.6 QHD LED IPS (165Hz), 100% DCI-P3 RAM : 1*16 GB Dual-channel DDR4 Storage : 512 GB SSD PCIe NVMe Graphics : NVIDIA GeForce RTX 3070 with 8 GB GDDR6",
+      "img": "laptop-1.jpg",
+      "id": 10
+    },
+    {
+      "nama": "LAPTOP HP INTEL CELLERON RAM 8 WINDOWS 10",
+      "harga": 2600000,
+      "kategori": "Laptop",
+      "deskripsi": "SPESIFIKASI : TIPE LAPTOP HP INTEL CELERON UNTUK PILIHAN RAM 4GB HDD 500GB MONITOR 14 INCH GRAFIS INTEL HD/AMD PORT USB/HDMI/LAN WIFI & WEBCAM TERINSTAL OS WINDOWS 10 TERINSTAL MS OFFICE EX DISPLAY LIKE NEW GARANSI 1 BULAN SPERPARD DAN 1 TAHUN SERVICE DILUAR LCD DAN AKSESSORIS",
+      "img": "laptop-2.jpg",
+      "id": 11
+    },
+    {
+      "nama": "LENOVO IDEAPAD SLIM 3 INTEL I3-1005G1 8GB",
+      "harga": 6000000,
+      "kategori": "Laptop",
+      "deskripsi": "Processor : Intel Core i3-1005G1 (Cache 4 M, 3,40 GHz) - Graphics : Integrated Intel UHD Graphics - Chipset : Intel SoC Platform - Memory : 8GB DDR4-2666 - Storage : 256 GB SSD M.2 2242 PCIe NVMe 3.0x2 - Display : 14 FHD (1920x1080) WVA 250nits Anti-glare LED backlight, 16:9 aspect ratio - Media Reader : 4-in-1 Card Reader - WLAN + Bluetooth : 11ac, 2x2 + BT5.0 - Case Material : PC / ABS - Camera : 0.3MP - Microphone : 2x, Array - Fingerprint Reader : None - TPM : FW TPM 2.0 - Battery : Integrated 45Wh - Power Adapter : 65W Round Tip - Operating System : Windows 10 Home 64, English - Bundled Software : Office Home and Student 2019",
+      "img": "laptop-3.jpg",
+      "id": 12
+    },
+    {
+      "nama": "HP 14S-CF2075TU CF2076TU - i3 10110U 8GB",
+      "harga": 5899000,
+      "kategori": "Laptop",
+      "deskripsi": "Spesifikasi: Operating system : Windows 10 Home Single Language 64 Include : Microsoft® Office Home & Student 2019 Prosesor : Intel i3-10110U Processor 4M Cache, up to 4.10 GHz Ram : 4GB/8GB/16GB (*PILIH SESUAI VARIAN) Internal storage : 256GB SSD Display: 14inch Graphics: Intel® UHD Graphics Keyboard backlit Power supply : 45 W Smart AC power adapter Battery type: 3-cell, 41 Wh Li-ion Battery weight: 210 g Dimensions without stand 32.4 x 22.5 x 1.79 cm Package dimensions (W x D x H) 6.9 x 48.3 x 30.5 cm Package weight 1.71 kg",
+      "img": "laptop-4.jpg",
+      "id": 13
     }
   ],
   "keranjang": [

@@ -193,38 +193,6 @@
       "deskripsi": "Supports 10th Gen Intel®Core™ Processors, Dual Channel Non-ECC Unbuffered DDR4, 2 DIMMs, 8-Channel HD Audio with High Quality Audio Capacitors, NVMe PCIe Gen3 x4 2280 M.2 Connector, GIGABYTE Gaming GbE LAN with Bandwidth Management, Smart Fan 5 features",
       "img": "mobo-1.jpg",
       "id": 22
-    },
-    {
-      "nama": "ASROCK B560M Pro4 LGA 1200",
-      "harga": 1650000,
-      "kategori": "KomponenPc",
-      "deskripsi": "- 11th Gen Intel® Core™ Processors support DDR4 non-ECC, un-buffered memory up to 4800+(OC)* - 10th Gen Intel® Core™ Processors support DDR4 non-ECC, un-buffered memory up to 4666+(OC) *11th Gen Intel® Core™ (i9/i7/i5) support DDR4 up to 3200; Core™ (i3)",
-      "img": "mobo-2.jpg",
-      "id": 23
-    },
-    {
-      "nama": "Motherboard MSI PRO H410M-B LGA 1200",
-      "harga": 1020000,
-      "kategori": "KomponenPc",
-      "deskripsi": "Supports 10th Gen Intel® Core™ Processors, Pentium® Gold and Celeron® Processors1, Processor socket LGA1200, CHIPSET, Intel® H510 Chipset, MEMORY, 2x DDR4 memory slots, support up to 64GB1, Supports 1R 2133/ 2666/ 2933 MHz for 10th Gen Intel® CPU",
-      "img": "mobo-3.jpg",
-      "id": 24
-    },
-    {
-      "nama": "HP KM100 Keyboard dan Mouse Combo USB",
-      "harga": 129000,
-      "kategori": "MouseKeyboard",
-      "deskripsi": "MENGETIK LEBIH NYAMAN, Rasakan kenyamanan mengetik dengan keyboard low-profile, tombol hening, dan layout standar lengkap dengan F, full-size dan number pad. GERAKAN LEBIH MULUS.",
-      "img": "mouse-keyboard-1.jpg",
-      "id": 25
-    },
-    {
-      "nama": "Logitech MK470 Combo Wireless Slim",
-      "harga": 272000,
-      "kategori": "MouseKeyboard",
-      "deskripsi": "MINIMALIS. MODERN. LANGSING. MK470 Slim Combo menonjol karena kesederhanaannya. Profil ramping dan desain minimalis mengubah keyboard dan Anda menjadi pernyataan visual untuk pengaturan meja yang bersih dan ramping.",
-      "img": "mouse-keyboard-3.jpg",
-      "id": 26
     }
   ],
   "keranjang": [

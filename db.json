@@ -121,6 +121,62 @@
       "deskripsi": "Spesifikasi: Operating system : Windows 10 Home Single Language 64 Include : Microsoft® Office Home & Student 2019 Prosesor : Intel i3-10110U Processor 4M Cache, up to 4.10 GHz Ram : 4GB/8GB/16GB (*PILIH SESUAI VARIAN) Internal storage : 256GB SSD Display: 14inch Graphics: Intel® UHD Graphics Keyboard backlit Power supply : 45 W Smart AC power adapter Battery type: 3-cell, 41 Wh Li-ion Battery weight: 210 g Dimensions without stand 32.4 x 22.5 x 1.79 cm Package dimensions (W x D x H) 6.9 x 48.3 x 30.5 cm Package weight 1.71 kg",
       "img": "laptop-4.jpg",
       "id": 13
+    },
+    {
+      "nama": "LAPTOP ASUS A409FA - I3 10110U 8GB 256GB SSD",
+      "harga": 5688000,
+      "kategori": "Laptop",
+      "deskripsi": "A416FA type baru sudah windows 11 • Processor : Intel® Core™ i3-10110U processor 1.2GHz with Turbo Boost (up to 3.4GHz) and 4MB cache • Memory : 4GB/8GB (*PILIH SESUAI VARIAN) • Storage : 256 GB M.2 NVMe™ PCIe® SSD • Graphics : Intel UHD Graphics • Display : 14inch • Optical Drive : NO • Camera : HD Webcam • Audio : ASUS SonicMaster stereo audio system with surround-sound • Networking : Integrated 802.11 AC (2x2) Built-in Bluetooth V4.2 • KEYBOARD BACKLIT • FINGERPRINT",
+      "img": "laptop-5.jpg",
+      "id": 14
+    },
+    {
+      "nama": "LAPTOP ASUS A416FA i3-10110U/8GB/SSD 256GB",
+      "harga": 5788000,
+      "kategori": "Laptop",
+      "deskripsi": "Speksifikasi: - Processor : Intel® Core™ i3-1005G1 processor 1.2GHz with Turbo Boost (up to 3.4GHz) and 4MB cache - Memory : 4 GB LPDDR4 / 8GB DDR4 - Storage : 256GB NVVME / 512GB NVME / SSD 256GB + HDD 1TB - Graphics : Intel UHD Graphics - Display : 14 FHD IPS (16: 9) LED backlit Doff with 45% NTSC (On selected models) - Optical Drive : NO - Camera : VGA Webcam - Audio : ASUS SonicMaster stereo audio system with surround-sound - Networking : Integrated 802.11 AC (2x2) Built-in Bluetooth V4.2 - KEYBOARD BACKLIT",
+      "img": "laptop-6.jpg",
+      "id": 15
+    },
+    {
+      "id": 16,
+      "nama": "Intel Core i5 9400F",
+      "harga": 2100000,
+      "deskripsi": "6 Core, Base Frequency 2,9GHz, TDP 65Watt, CPU Cache 9MB, Socket LGA 1151",
+      "kategori": "KomponenPc",
+      "img": "corei5-9400f.png"
+    },
+    {
+      "id": 17,
+      "nama": "AMD Ryzen 5 3400g",
+      "harga": 2750000,
+      "deskripsi": "4 Core 8 Threads, Base Frequency 3,70 - 4.20 GHz, IGP Radeon Vega 11, TDP 65Watt, CPU Cache 3MB, Socket AM4",
+      "kategori": "KomponenPc",
+      "img": "ryzen5-3400g.png"
+    },
+    {
+      "id": 18,
+      "nama": "AMD-Athlon-3000G",
+      "harga": 850000,
+      "deskripsi": "2 Core 4 Threads, Base Frequency 3,0GHz,IGP Radeon Vega 3, TDP 35Watt, CPU Cache 4MB, Socket AM4",
+      "kategori": "KomponenPc",
+      "img": "athlon-3000g.png"
+    },
+    {
+      "nama": "Intel Core i3 10100F BOX CometLake",
+      "harga": 1250000,
+      "kategori": "KomponenPc",
+      "deskripsi": "PROCESSOR INTEL CORE i3 10100F ini berspesifikasi sebagai berikut : Cores : 4, Threads : 8, Processor Base Frequency : 3.60 GHz, Max Turbo Frequency : 4.30 GHz, Cache : 6 MB Intel® Smart Cache, Bus Speed : 8 GT/s, TDP : 65 W, Max Memory Size (dependent on memory type) : 128 GB, Memory Types : DDR4-2666, Max of Memory Channels : 2, Max Memory Bandwidth : 41.6 GB/s",
+      "img": "processor-1.jpg",
+      "id": 19
+    },
+    {
+      "nama": "INTEL 1200 CORE I9-10900K",
+      "harga": 9800000,
+      "kategori": "KomponenPc",
+      "deskripsi": "Spesifikasi : EssentialsProduct Collection: 10th Generation Intel Core i9 ProcessorsCode Name: Products formerly Comet Segment : DesktopProcessor Number : i9-10900K CPU SpecificationsTotal Cores : 10Total Threads : 20Max Turbo Frequency : 5.30 GHzIntel Thermal Velocity Frequency : 5.30 GHzIntel Turbo Boost Max Technology 3.0 Frequency : 5.20 GHzIntel Turbo Boost Technology 2 Frequency : 5.10 GHzProcessor Base Frequency : 3.70 GHzCache 20 MB Intel Smart CacheBus Speed : 8 GT/sTDP : WConfigurable TDP-down Base Frequency : 3.30 GHzConfigurable TDP-down : 95 W Memory SpecificationsMax Memory Size (dependent on memory type) : 128 GBMemory Types : DDR4-2933Max of Channels : 2Max Memory Bandwidth : 45.8 GB",
+      "img": "processor-2.jpg",
+      "id": 20
     }
   ],
   "keranjang": [

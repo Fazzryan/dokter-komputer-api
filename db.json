@@ -78,7 +78,7 @@
       "nama": "PC Intel i5 3470  (3.2 - 3.6 GHz, C6Mb)",
       "harga": 5500000,
       "kategori": "Komputer",
-      "deskripsi": "Spesifikasi PC : Processor Intel Core i5-3470 (3.2 - 3.6 GHz, C6Mb), Graphic Card Nvidia Geforce GT1030 2GB DDR5, RAM 16GB VGen DDR3 PC12800 (Dual Channel), Harddisk System : SSD 480GB High Speed 6Gbps, Harddisk Storage : SATA 1TB Seagate Internal HD 3.5, Mainboard Intel LGA1155 Biostar H61M (Gigabit LAN), PSU 450W - Voltron Bronze / Magnum Pro 225x, Case Armageddon Nimitz TR1100 + Triple LED Fan (Front)",
+      "deskripsi": "Spesifikasi PC : Processor Intel Core i5-3470 (3.2 - 3.6 GHz, C6Mb), Graphic Card Nvidia Geforce GT1030 2GB DDR5, RAM 16GB VGen DDR3 PC12800 (Dual Channel), Harddisk System : SSD 480GB High Speed 6Gbps, Harddisk Storage : SATA 1TB Seagate Internal HD 3.5, Mainboard Intel LGA1155 Biostar H61M (Gigabit LAN), PSU 450W - Voltron Bronze",
       "img": "pc-gaming-4.jpg",
       "id": 8
     },
@@ -86,7 +86,7 @@
       "nama": "Pc Gaming|Ryzen 7 5700G|16GB DDR4|Vega 8|",
       "harga": 8200000,
       "kategori": "Komputer",
-      "deskripsi": "Spesifikasi Lengkap: MotherBoard MSI B450M A Pro, Processor AMD Ryzen 7 5700G Clock/Turbo 3.6GHz/3.9GHz Garansi 3 tahun, Cooler Jonsbo CR-1200E, DDR4 Samsung / Kingston 16GB (8x2) PC 3200mhz Garansi Lifetime, SSD 240 GB Midasforce Garansi 3 tahun, VGA Onboard Vega 8, Sound Card + Lan Card (On Board), Casing Paradox Gaming Dragon Slayer / Durandal, Fan tmbhn 3 pcs, PSU Aerocool 550W 80+ Bronze RGB",
+      "deskripsi": "Spesifikasi Lengkap: MotherBoard MSI B450M A Pro, Processor AMD Ryzen 7 5700G Clock/Turbo 3.6GHz/3.9GHz Garansi 3 tahun, Cooler Jonsbo CR-1200E, DDR4 Samsung / Kingston 16GB (8x2) PC 3200mhz Garansi Lifetime, SSD 240 GB Midasforce Garansi 3 tahun, VGA Onboard Vega 8",
       "img": "pc-gaming-5.jpg",
       "id": 9
     },
@@ -110,7 +110,7 @@
       "nama": "LENOVO IDEAPAD SLIM 3 INTEL I3-1005G1 8GB",
       "harga": 6000000,
       "kategori": "Laptop",
-      "deskripsi": "Processor : Intel Core i3-1005G1 (Cache 4 M, 3,40 GHz) - Graphics : Integrated Intel UHD Graphics - Chipset : Intel SoC Platform - Memory : 8GB DDR4-2666 - Storage : 256 GB SSD M.2 2242 PCIe NVMe 3.0x2 - Display : 14 FHD (1920x1080) WVA 250nits Anti-glare LED backlight, 16:9 aspect ratio - Media Reader : 4-in-1 Card Reader - WLAN + Bluetooth : 11ac, 2x2 + BT5.0 - Case Material : PC / ABS - Camera : 0.3MP - Microphone : 2x, Array - Fingerprint Reader : None - TPM : FW TPM 2.0 - Battery : Integrated 45Wh - Power Adapter : 65W Round Tip - Operating System : Windows 10 Home 64, English - Bundled Software : Office Home and Student 2019",
+      "deskripsi": "Processor : Intel Core i3-1005G1 (Cache 4 M, 3,40 GHz) - Graphics : Integrated Intel UHD Graphics - Chipset : Intel SoC Platform - Memory : 8GB DDR4-2666 - Storage : 256 GB SSD M.2 2242 PCIe NVMe 3.0x2 - Display : 14 FHD (1920x1080) WVA 250nits Anti-glare LED backlight",
       "img": "laptop-3.jpg",
       "id": 12
     },
@@ -118,7 +118,7 @@
       "nama": "HP 14S-CF2075TU CF2076TU - i3 10110U 8GB",
       "harga": 5899000,
       "kategori": "Laptop",
-      "deskripsi": "Spesifikasi: Operating system : Windows 10 Home Single Language 64 Include : Microsoft® Office Home & Student 2019 Prosesor : Intel i3-10110U Processor 4M Cache, up to 4.10 GHz Ram : 4GB/8GB/16GB (*PILIH SESUAI VARIAN) Internal storage : 256GB SSD Display: 14inch Graphics: Intel® UHD Graphics Keyboard backlit Power supply : 45 W Smart AC power adapter Battery type: 3-cell, 41 Wh Li-ion Battery weight: 210 g Dimensions without stand 32.4 x 22.5 x 1.79 cm Package dimensions (W x D x H) 6.9 x 48.3 x 30.5 cm Package weight 1.71 kg",
+      "deskripsi": "Spesifikasi: Operating system : Windows 10 Home Single Language 64 Include : Microsoft® Office Home & Student 2019 Prosesor : Intel i3-10110U Processor 4M Cache, up to 4.10 GHz Ram : 4GB/8GB/16GB (*PILIH SESUAI VARIAN) Internal storage : 256GB SSD Display: 14inch Graphics: Intel® UHD Graphics ",
       "img": "laptop-4.jpg",
       "id": 13
     },
@@ -126,7 +126,7 @@
       "nama": "LAPTOP ASUS A409FA - I3 10110U 8GB 256GB SSD",
       "harga": 5688000,
       "kategori": "Laptop",
-      "deskripsi": "A416FA type baru sudah windows 11 • Processor : Intel® Core™ i3-10110U processor 1.2GHz with Turbo Boost (up to 3.4GHz) and 4MB cache • Memory : 4GB/8GB (*PILIH SESUAI VARIAN) • Storage : 256 GB M.2 NVMe™ PCIe® SSD • Graphics : Intel UHD Graphics • Display : 14inch • Optical Drive : NO • Camera : HD Webcam • Audio : ASUS SonicMaster stereo audio system with surround-sound • Networking : Integrated 802.11 AC (2x2) Built-in Bluetooth V4.2 • KEYBOARD BACKLIT • FINGERPRINT",
+      "deskripsi": "A416FA type baru sudah windows 11 • Processor : Intel® Core™ i3-10110U processor 1.2GHz with Turbo Boost (up to 3.4GHz) and 4MB cache • Memory : 4GB/8GB (*PILIH SESUAI VARIAN) • Storage : 256 GB M.2 NVMe™ PCIe® SSD • Graphics : Intel UHD Graphics ",
       "img": "laptop-5.jpg",
       "id": 14
     },
@@ -134,7 +134,7 @@
       "nama": "LAPTOP ASUS A416FA i3-10110U/8GB/SSD 256GB",
       "harga": 5788000,
       "kategori": "Laptop",
-      "deskripsi": "Speksifikasi: - Processor : Intel® Core™ i3-1005G1 processor 1.2GHz with Turbo Boost (up to 3.4GHz) and 4MB cache - Memory : 4 GB LPDDR4 / 8GB DDR4 - Storage : 256GB NVVME / 512GB NVME / SSD 256GB + HDD 1TB - Graphics : Intel UHD Graphics - Display : 14 FHD IPS (16: 9) LED backlit Doff with 45% NTSC (On selected models) - Optical Drive : NO - Camera : VGA Webcam - Audio : ASUS SonicMaster stereo audio system with surround-sound - Networking : Integrated 802.11 AC (2x2) Built-in Bluetooth V4.2 - KEYBOARD BACKLIT",
+      "deskripsi": "Speksifikasi: - Processor : Intel® Core™ i3-1005G1 processor 1.2GHz with Turbo Boost (up to 3.4GHz) and 4MB cache - Memory : 4 GB LPDDR4 / 8GB DDR4 - Storage : 256GB NVVME / 512GB NVME / SSD 256GB + HDD 1TB - Graphics : Intel UHD Graphics - ",
       "img": "laptop-6.jpg",
       "id": 15
     },
@@ -166,7 +166,7 @@
       "nama": "Intel Core i3 10100F BOX CometLake",
       "harga": 1250000,
       "kategori": "KomponenPc",
-      "deskripsi": "PROCESSOR INTEL CORE i3 10100F ini berspesifikasi sebagai berikut : Cores : 4, Threads : 8, Processor Base Frequency : 3.60 GHz, Max Turbo Frequency : 4.30 GHz, Cache : 6 MB Intel® Smart Cache, Bus Speed : 8 GT/s, TDP : 65 W, Max Memory Size (dependent on memory type) : 128 GB, Memory Types : DDR4-2666, Max of Memory Channels : 2, Max Memory Bandwidth : 41.6 GB/s",
+      "deskripsi": "PROCESSOR INTEL CORE i3 10100F ini berspesifikasi sebagai berikut : Cores : 4, Threads : 8, Processor Base Frequency : 3.60 GHz, Max Turbo Frequency : 4.30 GHz, Cache : 6 MB Intel® Smart Cache",
       "img": "processor-1.jpg",
       "id": 19
     },
@@ -174,7 +174,7 @@
       "nama": "INTEL 1200 CORE I9-10900K",
       "harga": 9800000,
       "kategori": "KomponenPc",
-      "deskripsi": "Spesifikasi : EssentialsProduct Collection: 10th Generation Intel Core i9 ProcessorsCode Name: Products formerly Comet Segment : DesktopProcessor Number : i9-10900K CPU SpecificationsTotal Cores : 10Total Threads : 20Max Turbo Frequency : 5.30 GHzIntel Thermal Velocity Frequency : 5.30 GHzIntel Turbo Boost Max Technology 3.0 Frequency : 5.20 GHzIntel Turbo Boost Technology 2 Frequency : 5.10 GHzProcessor Base Frequency : 3.70 GHzCache 20 MB Intel Smart CacheBus Speed : 8 GT/sTDP : WConfigurable TDP-down Base Frequency : 3.30 GHzConfigurable TDP-down : 95 W Memory SpecificationsMax Memory Size (dependent on memory type) : 128 GBMemory Types : DDR4-2933Max of Channels : 2Max Memory Bandwidth : 45.8 GB",
+      "deskripsi": "Spesifikasi : EssentialsProduct Collection: 10th Generation Intel Core i9 ProcessorsCode Name: Products formerly Comet Segment : DesktopProcessor Number : i9-10900K CPU SpecificationsTotal Cores : 10Total Threads : 20Max Turbo Frequency : 5.30 GHz",
       "img": "processor-2.jpg",
       "id": 20
     }

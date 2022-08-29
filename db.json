@@ -177,22 +177,6 @@
       "deskripsi": "Spesifikasi : EssentialsProduct Collection: 10th Generation Intel Core i9 ProcessorsCode Name: Products formerly Comet Segment : DesktopProcessor Number : i9-10900K CPU SpecificationsTotal Cores : 10Total Threads : 20Max Turbo Frequency : 5.30 GHz",
       "img": "processor-2.jpg",
       "id": 20
-    },
-    {
-      "nama": "AMD Ryzen 7 3800X 3.9Ghz",
-      "harga": 6100000,
-      "kategori": "KomponenPc",
-      "deskripsi": "Processor Name : AMD Ryzen 7 3800X 3.9Ghz Up To 4.5Ghz Cache 32MB 105W AM4 [Box] - 8 Core, 100-100000025BOX - With AMD Wraith Prism Cooler, Brand : AMD, CPU Socket Type : AM4, Processors Generation : 3rd Gen Ryzen, Family : AMD Ryzen, Cores : 8, Threads : 16,",
-      "img": "processor-3.jpg",
-      "id": 21
-    },
-    {
-      "nama": "MOTHERBOARD GIGABYTE H410M-H V3",
-      "harga": 1110000,
-      "kategori": "KomponenPc",
-      "deskripsi": "Supports 10th Gen Intel®Core™ Processors, Dual Channel Non-ECC Unbuffered DDR4, 2 DIMMs, 8-Channel HD Audio with High Quality Audio Capacitors, NVMe PCIe Gen3 x4 2280 M.2 Connector, GIGABYTE Gaming GbE LAN with Bandwidth Management, Smart Fan 5 features",
-      "img": "mobo-1.jpg",
-      "id": 22
     }
   ],
   "keranjang": [
